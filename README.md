@@ -1,4 +1,7 @@
-# go-password
+[![Build Status](https://travis-ci.org/codejanovic/go-password.svg?branch=develop)](https://travis-ci.org/codejanovic/go-password)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]()
+
+# go-password 
 
 this projects provides a very simple password interface and different password implementations.
 
